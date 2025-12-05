@@ -37,7 +37,7 @@ const Footer = () => {
     },
     {
       name: "Email",
-      url: "mailto:sohail@example.com",
+      url: "#",
       icon: Mail,
       color: "#",
     },
