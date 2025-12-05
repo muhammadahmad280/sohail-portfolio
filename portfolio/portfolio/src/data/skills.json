@@ -1,0 +1,224 @@
+{
+  "frontend": [
+    {
+      "name": "React",
+      "level": 95,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+      "experience": "4+ years",
+      "description": "Building modern, scalable React applications with hooks, context, and performance optimization."
+    },
+    {
+      "name": "JavaScript",
+      "level": 92,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+      "experience": "5+ years",
+      "description": "Advanced JavaScript concepts, ES6+, async programming, and modern development practices."
+    },
+    {
+      "name": "TypeScript",
+      "level": 88,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+      "experience": "3+ years",
+      "description": "Type-safe development with advanced TypeScript patterns and best practices."
+    },
+    {
+      "name": "HTML5",
+      "level": 96,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+      "experience": "6+ years",
+      "description": "Semantic HTML, accessibility standards, and modern web standards compliance."
+    },
+    {
+      "name": "CSS3",
+      "level": 94,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+      "experience": "6+ years",
+      "description": "Advanced CSS techniques, animations, responsive design, and modern layouts."
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": 93,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+      "experience": "3+ years",
+      "description": "Utility-first CSS framework for rapid UI development and custom design systems."
+    },
+    {
+      "name": "Bootstrap",
+      "level": 85,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+      "experience": "5+ years",
+      "description": "Component-based CSS framework for responsive and mobile-first web development."
+    }
+  ],
+  "backend": [
+    {
+      "name": "PHP",
+      "level": 90,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
+      "experience": "5+ years",
+      "description": "Object-oriented PHP development with modern PHP 8+ features and best practices."
+    },
+    {
+      "name": "Laravel",
+      "level": 92,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg",
+      "experience": "6+ years",
+      "description": "Full-stack Laravel development with advanced features like queues, events, and caching."
+    },
+    {
+      "name": "Node.js",
+      "level": 85,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+      "experience": "3+ years",
+      "description": "Server-side JavaScript development with Express.js and modern Node.js patterns."
+    },
+    {
+      "name": "MySQL",
+      "level": 88,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+      "experience": "5+ years",
+      "description": "Database design, optimization, complex queries, and performance tuning."
+    },
+    {
+      "name": "MongoDB",
+      "level": 82,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+      "experience": "2+ years",
+      "description": "NoSQL database design, aggregation pipelines, and document-based data modeling."
+    },
+    {
+      "name": "PostgreSQL",
+      "level": 80,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+      "experience": "2+ years",
+      "description": "Advanced relational database features, performance optimization, and complex queries."
+    }
+  ],
+  "cms": [
+    {
+      "name": "WordPress",
+      "level": 91,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg",
+      "experience": "6+ years",
+      "description": "Custom theme development, plugin creation, and advanced WordPress customization."
+    },
+    {
+      "name": "WooCommerce",
+      "level": 87,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg",
+      "experience": "4+ years",
+      "description": "E-commerce solutions with custom payment gateways and shipping integrations."
+    },
+    {
+      "name": "Shopify",
+      "level": 75,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg",
+      "experience": "2+ years",
+      "description": "Shopify theme customization, app development, and e-commerce optimization."
+    }
+  ],
+  "database": [
+    {
+      "name": "MySQL",
+      "level": 88,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+      "experience": "5+ years",
+      "description": "Designing normalized schemas, managing relationships, and optimizing complex queries."
+    },
+    {
+      "name": "PostgreSQL",
+      "level": 80,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+      "experience": "2+ years",
+      "description": "Using PostgreSQL for advanced relational data and ensuring data integrity."
+    },
+    {
+      "name": "MongoDB",
+      "level": 82,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+      "experience": "2+ years",
+      "description": "NoSQL database management and document-based modeling."
+    },
+    {
+      "name": "phpMyAdmin",
+      "level": 85,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+      "experience": "3+ years",
+      "description": "Managing and administrating MySQL databases efficiently via phpMyAdmin."
+    }
+  ],
+  "tools": [
+    {
+      "name": "Git",
+      "level": 90,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+      "experience": "5+ years",
+      "description": "Version control, branching strategies, and collaborative development workflows."
+    },
+    {
+      "name": "Docker",
+      "level": 78,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+      "experience": "2+ years",
+      "description": "Containerization, orchestration, and deployment automation with Docker."
+    },
+    {
+      "name": "AWS",
+      "level": 75,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg",
+      "experience": "2+ years",
+      "description": "Cloud services, deployment, and infrastructure management with Amazon Web Services."
+    },
+    {
+      "name": "Figma",
+      "level": 82,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+      "experience": "3+ years",
+      "description": "UI/UX design, prototyping, and design system creation with Figma."
+    },
+    {
+      "name": "VS Code",
+      "level": 95,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
+      "experience": "5+ years",
+      "description": "Advanced code editing, debugging, and development environment customization."
+    },
+    {
+      "name": "Webpack",
+      "level": 80,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg",
+      "experience": "3+ years",
+      "description": "Module bundling, build optimization, and development workflow automation."
+    }
+  ],
+  "devops": [
+    {
+      "name": "GitHub Actions",
+      "level": 80,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+      "experience": "2+ years",
+      "description": "Automating CI/CD workflows with GitHub Actions for testing and deployment."
+    },
+    {
+      "name": "Jenkins",
+      "level": 75,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg",
+      "experience": "1+ year",
+      "description": "Continuous integration and deployment automation with Jenkins pipelines."
+    },
+    {
+      "name": "Nginx",
+      "level": 85,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg",
+      "experience": "3+ years",
+      "description": "Web server configuration, load balancing, and performance optimization."
+    },
+    {
+      "name": "Linux",
+      "level": 90,
+      "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
+      "experience": "5+ years",
+      "description": "Server management, shell scripting, and environment configuration in Linux systems."
+    }
+  ]
+}

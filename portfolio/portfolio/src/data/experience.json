@@ -1,0 +1,92 @@
+{
+  "experience": [
+      {
+      "id": "exp-laravel-2",
+      "title": "Senior Laravel Developer",
+      "company": "GlobalTech Systems (UK-based Client)",
+      "location": "Remote (UK)",
+      "startDate": "2021-03-01",
+      "endDate": "2025-12-31",
+      "description": "Full-stack Laravel developer responsible for building and maintaining enterprise-grade web portals for a UK client. Delivered scalable solutions with clean, testable code and collaborated closely with product and design teams.",
+      "achievements": [
+        "Designed and implemented RESTful APIs that integrated with third-party CRM platforms, reducing data-sync latency by 40%.",
+        "Built responsive admin dashboards, invoicing modules, and role-based user management systems using Laravel 8, Bootstrap, and Vue.js.",
+        "Led the migration of legacy monolithic code to a modular micro-service architecture, improving deployment frequency from monthly to weekly.",
+        "Mentored 3 junior developers, establishing code-review standards and CI/CD pipelines with GitHub Actions.",
+        "Integrated payment gateways (Stripe, PayPal) and built real-time notification systems using WebSockets."
+      ],
+      "technologies": [
+        "Laravel",
+        "Lumen",
+        "PHP (OOP)",
+        "Vue.js",
+        "Bootstrap",
+        "MySQL",
+        "PostgreSQL",
+        "REST APIs",
+        "Docker",
+        "AWS (EC2, S3)",
+        "Redis",
+        "Stripe",
+        "PayPal",
+        "JavaScript",
+        "Git",
+        "Nginx",
+        "WebSockets"
+      ]
+    },
+    {
+      "id": "exp-laravel-1",
+      "title": "Laravel Developer",
+      "company": "TRG Pakistan (Lahore-based)",
+      "client": "UK-based Client Project",
+      "location": "Lahore, Pakistan (Remote for UK Client)",
+      "startDate": "2017-03-01",
+      "endDate": "2021-12-31",
+      "description": "Early-career Laravel engineer focused on rapid prototyping and feature delivery for custom web portals. Gained hands-on experience with the full Laravel ecosystem and third-party integrations.",
+      "achievements": [
+        "Developed custom web portals from scratch using Laravel 5, Bootstrap, and MySQL, delivering MVPs within 3-month sprints.",
+        "Implemented secure authentication, invoicing workflows, and admin panels supporting 10,000+ daily active users.",
+        "Integrated Stripe and PayPal payment gateways and built real-time notification systems using WebSockets.",
+        "Collaborated with UI/UX designers to translate mockups into pixel-perfect, responsive front-ends."
+      ],
+      "technologies": [
+        "Laravel 5",
+        "PHP",
+        "JavaScript",
+        "Bootstrap",
+        "MySQL",
+        "RESTful APIs",
+        "Git",
+        "Nginx",
+        "WebSockets"
+      ]
+    }
+  
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "Bahauddin Zakariya University",
+      "location": "Multan, Pakistan",
+      "startDate": "2015-09-01",
+      "endDate": "2019-06-30",
+      "description": "Focused on software engineering principles, algorithms, and web development. Graduated with honors (Magna Cum Laude).",
+      "achievements": [
+        "Dean's List for 6 consecutive semesters",
+        "President of Computer Science Club",
+        "Led team project that won the university hackathon",
+        "Completed internship at a leading software company"
+      ],
+      "relevantCourses": [
+        "Data Structures and Algorithms",
+        "Web Development",
+        "Database Systems",
+        "Software Engineering",
+        "Computer Networks",
+        "Operating Systems"
+      ]
+    }
+  ]
+}

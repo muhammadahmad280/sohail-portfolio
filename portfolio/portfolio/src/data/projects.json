@@ -1,0 +1,124 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Enterprise E-Commerce Platform",
+      "description": "A scalable e-commerce solution for multi-vendor businesses featuring real-time inventory sync, custom admin dashboards, and advanced analytics. Integrated with Stripe and PayPal for seamless payments and built with Laravel and React.",
+      "technologies": [
+        "React",
+        "Laravel",
+        "MySQL",
+        "Stripe API",
+        "Tailwind CSS",
+        "Redis",
+        "AWS S3"
+      ],
+      "category": "laravel",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&h=600&fit=crop"
+    },
+    {
+      "id": 2,
+      "title": "Task Management & Collaboration Suite",
+      "description": "A real-time collaborative task management application supporting Kanban boards, team chat, drag-and-drop task assignment, and performance analytics. Designed for agile teams with WebSocket-powered live updates.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Socket.io",
+        "MongoDB",
+        "Material-UI",
+        "Express"
+      ],
+      "category": "frontend",
+      "image": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=900&h=600&fit=crop"
+    },
+    {
+      "id": 3,
+      "title": "Corporate Financial Website",
+      "description": "Developed a fully customized WordPress website for a UK-based financial services firm. Integrated content automation tools, SEO optimization, and custom dashboards for content editors.",
+      "technologies": [
+        "WordPress",
+        "PHP",
+        "Custom Theme",
+        "ACF",
+        "Webpack"
+      ],
+      "category": "wordpress",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&h=600&fit=crop"
+    },
+    {
+      "id": 4,
+      "title": "Dynamic Portfolio Generator (SaaS)",
+      "description": "A Next.js-based SaaS platform allowing users to create and deploy their own portfolios instantly. Includes user authentication, live preview editing, and automated deployment via Vercel API.",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Prisma",
+        "PostgreSQL",
+        "Vercel",
+        "NextAuth"
+      ],
+      "category": "frontend",
+      "image": "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=900&h=600&fit=crop"
+    },
+    {
+      "id": 5,
+      "title": "Learning Management System (LMS)",
+      "description": "A robust LMS platform with instructor dashboards, student progress tracking, course analytics, and real-time assessments. Supports subscription-based access and integrates Redis for caching and notifications.",
+      "technologies": [
+        "Laravel",
+        "Vue.js",
+        "MySQL",
+        "Redis",
+        "Bootstrap",
+        "WebSockets"
+      ],
+      "category": "laravel",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&h=600&fit=crop"
+    },
+    {
+      "id": 6,
+      "title": "Social Media Analytics Dashboard",
+      "description": "A unified social media management system that connects multiple platforms (Twitter, LinkedIn, Instagram) and visualizes engagement data in real-time with beautiful analytics charts and reports.",
+      "technologies": [
+        "React",
+        "Redux",
+        "Chart.js",
+        "Firebase",
+        "Styled Components",
+        "Google Analytics API"
+      ],
+      "category": "frontend",
+      "image": "https://images.unsplash.com/photo-1556155092-490a1ba16284?w=900&h=600&fit=crop"
+    },
+    {
+      "id": 7,
+      "title": "AI-Powered Resume Analyzer",
+      "description": "An AI SaaS tool that scans resumes, extracts keywords, and provides job-fit scoring using NLP. Built with Python backend (FastAPI), React frontend, and integrated OpenAI API for semantic analysis.",
+      "technologies": [
+        "React",
+        "FastAPI",
+        "Python",
+        "PostgreSQL",
+        "OpenAI API",
+        "Tailwind CSS"
+      ],
+      "category": "ai",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=900&h=600&fit=crop"
+    },
+    {
+      "id": 8,
+      "title": "Real-Time Vehicle Tracking Platform",
+      "description": "An enterprise-level GPS tracking platform built for logistics companies to monitor fleets in real time. Features geofencing, route optimization, and live driver dashboards with Google Maps integration.",
+      "technologies": [
+        "Laravel",
+        "Vue.js",
+        "MySQL",
+        "Google Maps API",
+        "Redis",
+        "Socket.io"
+      ],
+      "category": "laravel",
+      "image": "https://images.unsplash.com/photo-1581090700227-1e37b190418e?w=900&h=600&fit=crop"
+    }
+  ]
+}
