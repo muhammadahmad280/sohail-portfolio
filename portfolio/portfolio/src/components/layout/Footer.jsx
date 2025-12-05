@@ -19,25 +19,25 @@ const Footer = () => {
   const socialLinks = [
     {
       name: "GitHub",
-      url: "",
+      url: "#",
       icon: Github,
       color: "hover:text-gray-900 dark:hover:text-gray-100",
     },
     {
       name: "LinkedIn",
-      url: "https://linkedin.com/in/sohailsardar",
+      url: "#",
       icon: Linkedin,
       color: "hover:text-blue-500",
     },
     {
       name: "Twitter",
-      url: "https://twitter.com/sohail_sardar",
+      url: "#",
       icon: Twitter,
       color: "hover:text-sky-400",
     },
     {
       name: "Email",
-      url: "mailto:sohail@example.com",
+      url: "#",
       icon: Mail,
       color: "hover:text-red-500",
     },
@@ -156,3 +156,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
